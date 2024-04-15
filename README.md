@@ -55,3 +55,5 @@ samples.
 ![CNN2](final-evaluation/sample-predictions/sample-1.png?raw=true)
 ![CNN3](final-evaluation/sample-predictions/sample-2.png?raw=true)
 
+### Model Summary
+![model_summary](https://github.com/Aditya062003/IDP-Project/assets/102402625/fc7bd9cd-8423-4417-80b1-36a1211a37c0)
