@@ -2,7 +2,7 @@
 
 This repository explains how to make a geologic map of the moon using open-source data from the [USGS](https://www.usgs.gov/centers/astrogeo-sc/data-tools), [IAU](https://planetarynames.wr.usgs.gov/), and [NASA](https://solarsystem.nasa.gov/) and [Zenodo](https://zenodo.org/records/1133969). Software used includes `Python 3.7.1`.
 
-### Dependences
+### Dependencies
 
 - [Python](https://www.python.org/) version 2.7 or 3.5+
 - [Cartopy](http://scitools.org.uk/cartopy/) >= 0.14.2.  Cartopy itself has a
